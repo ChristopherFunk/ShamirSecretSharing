@@ -20,14 +20,14 @@ Distributed:
     To Startup the Dealer:
         python Dealer.py [server name/hostname] [port num]
             i.e.
-            python Dealer.py hawk.cs.umanitoba.ca 5252
-            if your Dealer.py is being executed on machine hawk.cs.umanitoba.ca and set to listen to port 5252
+            python Dealer.py server.address.com 5252
+            if your Dealer.py is being executed on machine server.address.com and set to listen to port 5252
 
     To Startup the Clients:
         python Client.py [dealer server name/hostname] [port num]
             i.e.
-            python Client.py hawk.cs.umanitoba.ca 5252
-            if the Dealer is on hawk.cs.umanitoba.ca listening on port 5252
+            python Client.py server.address.com 5252
+            if the Dealer is on server.address.com listening on port 5252
 
 
 The Dealer will ask you for a Secret, the number of clients you are expecting, and the desired threshold.
