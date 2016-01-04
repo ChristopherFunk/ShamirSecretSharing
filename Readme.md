@@ -1,3 +1,5 @@
+DO NOT USE THIS FOR CRYPTO/SECURITY! This was a school project and is in no way a secure or usuable (or complete for that matter) implementation of Shamir Secret Sharing. It was for a Crypto course paper. Again, DO NOT USE THIS FOR ANY CRYPTOGRAPHIC OR SECURITY PURPOSE!!! It is not secure!
+
 Shamir's Secret Sharing
 By: Tian Chen and Christopher Funk
 
